@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Discount.Spa.gRPC.props" />
+</Project>

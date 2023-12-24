@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Discount.Spa.gRPC.props" />
+</Project>
